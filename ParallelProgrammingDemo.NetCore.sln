@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPD.ConsoleApp.NetCore", "PPD.ConsoleApp.NetCore\PPD.ConsoleApp.NetCore.csproj", "{BDEDF930-7335-4855-82CA-323DAE47C58B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPD.WebApp.NetCore", "PPD.WebApp.NetCore\PPD.WebApp.NetCore.csproj", "{A09D5936-EB0E-4DB3-B7E3-B0317FF35FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDEDF930-7335-4855-82CA-323DAE47C58B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEDF930-7335-4855-82CA-323DAE47C58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEDF930-7335-4855-82CA-323DAE47C58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEDF930-7335-4855-82CA-323DAE47C58B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A09D5936-EB0E-4DB3-B7E3-B0317FF35FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A09D5936-EB0E-4DB3-B7E3-B0317FF35FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A09D5936-EB0E-4DB3-B7E3-B0317FF35FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A09D5936-EB0E-4DB3-B7E3-B0317FF35FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
